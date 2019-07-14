@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['ahelp','Type ahelp','El Swalm-السوالم'];
+    var setGame = ['ahelp','Type ahelp','السوالم سيرفر'];
     var i = -1;
     var j = 0;
     setInterval(function (){
