@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['ahelp','Type ahelp','.Dirillis Clan'];
+    var setGame = ['ahelp','Type ahelp','soon-قريبا'];
     var i = -1;
     var j = 0;
     setInterval(function (){
